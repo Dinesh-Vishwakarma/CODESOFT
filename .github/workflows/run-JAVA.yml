@@ -12,7 +12,34 @@ jobs:
 
     steps:
       - name: Checkout Repository
+        uses: actions/checkout@vname: Run Java Code
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
         uses: actions/checkout@v3
+
+      - name: Set up JDK 17
+        uses: actions/setup-java@v3
+        with:
+          java-version: '17'
+          distribution: 'temurin'
+
+      - name: Compile Java Code
+        run: javac GameOfNumber.java  # Correct filename
+
+      - name: Run Java Code
+        run: echo -e "5\n50\n75" | java GameOfNumber
+3
 
       - name: Set up JDK 17
         uses: actions/setup-java@v3
