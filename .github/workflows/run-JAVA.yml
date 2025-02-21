@@ -1,0 +1,27 @@
+name: Run Java Code
+
+on:
+  push:
+    branches:
+      - main  # Runs when you push changes to main
+  pull_request:  # Runs when a PR is created
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up JDK 17
+        uses: actions/setup-java@v3
+        with:
+          java-version: '17'
+          distribution: 'temurin'
+
+      - name: Compile Java Code
+        run: javac GameOfNumber.java
+
+      - name: Run Java Code
+        run: echo -e "5\n50\n75" | java GameOfNumber
