@@ -62,16 +62,16 @@ If you already have Java installed and the environment variables set up, follow 
       
 ## Example Run Of The Game 
 
-**Interface Of The Game **
+# Interface Of The Game 
 ![Screenshot 2025-02-22 172128](https://github.com/user-attachments/assets/d3375c40-9ec9-4c94-90eb-cb9ba0487e15)
 
-**Error if the entered round number is not in the range of 1 to 10 . **
+# Error if the entered round number is not in the range of 1 to 10 . 
 ![Screenshot 2025-02-22 172213](https://github.com/user-attachments/assets/dedace74-ef8d-4ea1-949c-9531e3e0f010)
 
-**If Loses **
+# If Loses 
 ![Screenshot 2025-02-22 172302](https://github.com/user-attachments/assets/bd8bd93f-16aa-493a-8091-1fa6b2ce2abb)
 
-**If Wins **
+# If Wins 
 ![Screenshot 2025-02-22 172336](https://github.com/user-attachments/assets/f27b9e12-5484-44a2-be59-ee6216a532c3)
 
 
