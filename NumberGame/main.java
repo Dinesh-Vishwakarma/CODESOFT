@@ -98,7 +98,7 @@ class Game
     }
     
 }
-public class GameOfNumber
+public class main
 {
     public static void main(String args[])
     {
