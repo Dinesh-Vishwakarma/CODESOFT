@@ -1,26 +1,45 @@
 # Java Program Repository
 
-About CODESOFT
+## About CODESOFT
 
 CODESOFT is a platform that provides hands-on experience through internships in various fields, including Java development. It offers real-world projects to help students and professionals enhance their coding skills and industry knowledge.
 
-About Task - 1 Guess The Number Game 
+## Table Of Content 
+- [ Task 1 : GUESS THE NUMBER](#Guess-The-Number-Game)
+- [Task 2 : STUDENT GRAD CALCULATOR]
+- [Task 3 : ATM INTERFACE]
+- [Task 4 : CURRENCY CONVERTOR]
+- [Task 5 : STUDENT MANAGEMENT SYSTEM]
 
+
+
+## 1 Guess The Number Game 
+
+**ABOUT**
 This project is a Guess the Number game developed in Java as part of the CODESOFT internship program. The game is designed to test players' logical thinking and intuition by challenging them to guess a randomly generated number within a limited number of rounds.
 
+## Game Description 
 The game begins by generating a random number between 0 and 99. The player chooses the number of rounds (between 1 and 10) to guess the correct number. Each guess is evaluated, and feedback is provided:
 
 - If the guess is correct, the player wins.
-
 - If the guess is too high, the game informs the player.
-
 - If the guess is too low, the game gives a hint.
-
 - If all rounds are used without a correct guess, the player loses
 
-[This repository contains Java programs. Follow the instructions below to set up Java and execute the programs.](#Table-of-Contents)
+## Game Logic
 
-## Table of Contents
+The core logic of the game involves:
+- Using Java's Random class to generate a number.
+- Taking user input for the guess and comparing it with the generated number.
+- Implementing conditional checks to provide feedback on each guess.
+- Maintaining a score and displaying the final result.
+
+To Run This Java programs. Follow the instructions below to set up Java and execute the programs .
+[Click here for intruction](#Table-of-content-for-Seting-up-JAVA)
+
+## 
+
+## Table of Contents for Seting up JAVA . 
 - [Downloading Java](#downloading-java)
 - [Installing Java](#installing-java)
 - [Setting Up Environment Variables](#setting-up-environment-variables)
@@ -75,5 +94,30 @@ CLICK ON **About*
 ![Screenshot 2025-02-22 120934](https://github.com/user-attachments/assets/3692cc6b-3fed-4bc4-a1e0-794347f6a897)
 
 **_Your Environmental Variable Is Set Now. _**
+
+## how to execute java programs
+
+How to Run the Game
+
+If you already have Java installed and the environment variables set up, follow these steps:
+- Download main.java file
+- open terminal in the folder
+- run these following command
+    - javac main.java
+    - java main   
+
+Clone the repository:
+
+git clone https://github.com/Dinesh-Vishwakarma/CODESOFT.git
+
+Navigate to the project directory:
+
+cd CODESOFT
+
+Compile the Java files:
+
+javac Main.java
+
+Run the game:
 
   
