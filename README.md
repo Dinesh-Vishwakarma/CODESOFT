@@ -5,7 +5,7 @@
 CODESOFT is a platform that provides hands-on experience through internships in various fields, including Java development. It offers real-world projects to help students and professionals enhance their coding skills and industry knowledge.
 
 ## Table Of Content 
-- [ Task 1 : GUESS THE NUMBER](#Guess-The-Number-Game)
+- [ Task 1 : GUESS THE NUMBER](TASK-1)
 - [Task 2 : STUDENT GRAD CALCULATOR]
 - [Task 3 : ATM INTERFACE]
 - [Task 4 : CURRENCY CONVERTOR]
@@ -13,7 +13,8 @@ CODESOFT is a platform that provides hands-on experience through internships in 
 
 
 
-## 1 Guess The Number Game 
+## Task 1 
+## Guess The Number Game 
 
 **ABOUT**
 This project is a Guess the Number game developed in Java as part of the CODESOFT internship program. The game is designed to test players' logical thinking and intuition by challenging them to guess a randomly generated number within a limited number of rounds.
@@ -39,7 +40,7 @@ To Run This Java programs. Follow the instructions below to set up Java and exec
 
 ## 
 
-## Table of Contents for Seting up JAVA . 
+## Table of Contents for Seting up JAVA 
 - [Downloading Java](#downloading-java)
 - [Installing Java](#installing-java)
 - [Setting Up Environment Variables](#setting-up-environment-variables)
