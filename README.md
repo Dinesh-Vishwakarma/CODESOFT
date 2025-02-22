@@ -1,4 +1,4 @@
-
+![Screenshot 2025-02-22 172336](https://github.com/user-attachments/assets/92992f55-495c-4f1d-b3e0-778a03bb3049)
 ## About CODESOFT
 
 CODESOFT is a platform that provides hands-on experience through internships in various fields, including Java development. It offers real-world projects to help students and professionals enhance their coding skills and industry knowledge.
@@ -14,6 +14,7 @@ CODESOFT is a platform that provides hands-on experience through internships in 
 ## Guess The Number Game
 
 **ABOUT**
+
 This project is a Guess the Number game developed in Java as part of the CODESOFT internship program. The game is designed to test players' logical thinking and intuition by challenging them to guess a randomly generated number within a limited number of rounds.
 
 ## Game Description 
@@ -35,9 +36,10 @@ The core logic of the game involves:
 Don't Know How to Downlaod Java? .
 Well I Got U Covered 
 Follow the instructions  to set up Java .
-[Click here for intruction](#Table-of-content-for-Setting-up-JAVA)
-Follow the Instruction to Execute the Game . 
-[Click here for intruction](#How-To-Excecute-The-GAME)
+[Click these for intruction](#Table-of-content-for-Setting-up-JAVA)
+
+Follow these Instruction to Execute the Game . 
+[Click these for intruction](#How-To-Excecute-The-GAME) 
 
 ## How To Excecute The GAME 
 
@@ -60,9 +62,17 @@ If you already have Java installed and the environment variables set up, follow 
 
       
 ## Example Run Of The Game 
+
+**Interface Of The Game **
 ![Screenshot 2025-02-22 172128](https://github.com/user-attachments/assets/d3375c40-9ec9-4c94-90eb-cb9ba0487e15)
+
+**Error if the entered round number is not in the range of 1 to 10 . **
 ![Screenshot 2025-02-22 172213](https://github.com/user-attachments/assets/dedace74-ef8d-4ea1-949c-9531e3e0f010)
+
+**If Loses **
 ![Screenshot 2025-02-22 172302](https://github.com/user-attachments/assets/bd8bd93f-16aa-493a-8091-1fa6b2ce2abb)
+
+**If Wins **
 ![Screenshot 2025-02-22 172336](https://github.com/user-attachments/assets/f27b9e12-5484-44a2-be59-ee6216a532c3)
 
 
