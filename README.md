@@ -5,7 +5,7 @@
 CODESOFT is a platform that provides hands-on experience through internships in various fields, including Java development. It offers real-world projects to help students and professionals enhance their coding skills and industry knowledge.
 
 ## Table Of Content 
-- [ Task 1 : GUESS THE NUMBER](Guess-The-Number-Game)
+- [Task 1 : GUESS THE NUMBER](#Guess-The-Number-Game)
 - [Task 2 : STUDENT GRAD CALCULATOR]
 - [Task 3 : ATM INTERFACE]
 - [Task 4 : CURRENCY CONVERTOR]
