@@ -1,4 +1,3 @@
-# Java Program Repository
 
 ## About CODESOFT
 
@@ -33,17 +32,45 @@ The core logic of the game involves:
 - Implementing conditional checks to provide feedback on each guess.
 - Maintaining a score and displaying the final result.
 
-To Run This Java programs. Follow the instructions below to set up Java and execute the programs .
+Don't Know How to Downlaod Java? .
+Well I Got U Covered 
+Follow the instructions  to set up Java .
 [Click here for intruction](#Table-of-content-for-Setting-up-JAVA)
+Follow the Instruction to Execute the Game . 
+[Click here for intruction](#How-To-Excecute-The-GAME)
 
-## 
+## How To Excecute The GAME 
+
+How to Run the Game
+
+If you already have Java installed and the environment variables set up, follow these steps:
+- Download main.java file
+![Screenshot 2025-02-22 171509](https://github.com/user-attachments/assets/f13b6c75-4a16-445b-aba5-9239c91b5358)
+
+- open terminal in the folder
+![Screenshot (15)](https://github.com/user-attachments/assets/49cb2083-ac1d-4df1-9140-d4bfb89ffa9f)
+
+
+- run these following command
+    - javac main.java
+      ![Screenshot 2025-02-22 172047](https://github.com/user-attachments/assets/b3839d2b-74fe-4d06-aa05-8aeebf3fa7c5)
+
+    - java main
+      ![Screenshot 2025-02-22 172114](https://github.com/user-attachments/assets/d4421856-31e7-423f-8ec1-2e9a26b5ccc5)
+
+      
+## Example Run Of The Game 
+![Screenshot 2025-02-22 172128](https://github.com/user-attachments/assets/d3375c40-9ec9-4c94-90eb-cb9ba0487e15)
+![Screenshot 2025-02-22 172213](https://github.com/user-attachments/assets/dedace74-ef8d-4ea1-949c-9531e3e0f010)
+![Screenshot 2025-02-22 172302](https://github.com/user-attachments/assets/bd8bd93f-16aa-493a-8091-1fa6b2ce2abb)
+![Screenshot 2025-02-22 172336](https://github.com/user-attachments/assets/f27b9e12-5484-44a2-be59-ee6216a532c3)
+
 
 ## Table of Contents for Setting up JAVA
 - [Downloading Java](#downloading-java)
 - [Installing Java](#installing-java)
 - [Setting Up Environment Variables](#setting-up-environment-variables)
 - [How to Execute Java Programs](#how-to-execute-java-programs)
-  - [Compiling and Running Java Programs](#compiling-and-running-java-programs)
 
 ---
 
@@ -92,31 +119,4 @@ CLICK ON **About*
   
 ![Screenshot 2025-02-22 120934](https://github.com/user-attachments/assets/3692cc6b-3fed-4bc4-a1e0-794347f6a897)
 
-**_Your Environmental Variable Is Set Now. _**
-
-## how to execute java programs
-
-How to Run the Game
-
-If you already have Java installed and the environment variables set up, follow these steps:
-- Download main.java file
-- open terminal in the folder
-- run these following command
-    - javac main.java
-    - java main   
-
-Clone the repository:
-
-git clone https://github.com/Dinesh-Vishwakarma/CODESOFT.git
-
-Navigate to the project directory:
-
-cd CODESOFT
-
-Compile the Java files:
-
-javac Main.java
-
-Run the game:
-
-  
+**_Your Environmental Variable Is Set Now. _**  
