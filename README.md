@@ -28,5 +28,7 @@ After downloading the Java Development Kit (JDK):
 ## Setting Up Environment Variables
 For Windows:
 1. Open **System Properties** → **Advanced System Settings**.
+![About](https://github.com/user-attachments/assets/c5964bd3-d431-478a-9862-6d271175f34b)
+   - CLICK ON About  
 2. Click **Environment Variables**.
 3. Under **System Variables**, find **Path**, select **Edit**, and add the `bin` directory of your Java installation.
