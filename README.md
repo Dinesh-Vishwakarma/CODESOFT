@@ -15,7 +15,8 @@ This repository contains Java programs. Follow the instructions below to set up 
 To download Java, visit the official website:
 - [Oracle JDK](https://www.oracle.com/java/technologies/javase-downloads.html)
 - [OpenJDK](https://jdk.java.net/)
-![image](https://github.com/user-attachments/assets/495424c1-41c6-4e37-b49d-c107c5719222)
+![Oracle website](https://github.com/user-attachments/assets/872d701c-2fe9-4d42-96e1-a6ecf16dbcfc)
+
 
 Choose the latest version for your operating system.
 
