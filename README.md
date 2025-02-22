@@ -1,4 +1,3 @@
-![Screenshot 2025-02-22 172336](https://github.com/user-attachments/assets/92992f55-495c-4f1d-b3e0-778a03bb3049)
 ## About CODESOFT
 
 CODESOFT is a platform that provides hands-on experience through internships in various fields, including Java development. It offers real-world projects to help students and professionals enhance their coding skills and industry knowledge.
