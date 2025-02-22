@@ -18,7 +18,7 @@ The game begins by generating a random number between 0 and 99. The player choos
 
 - If all rounds are used without a correct guess, the player loses
 
-This repository contains Java programs. Follow the instructions below to set up Java and execute the programs.(#Table-of-Contents)
+[This repository contains Java programs. Follow the instructions below to set up Java and execute the programs.](#Table-of-Contents)
 
 ## Table of Contents
 - [Downloading Java](#downloading-java)
