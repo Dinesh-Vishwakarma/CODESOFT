@@ -1,6 +1,24 @@
 # Java Program Repository
 
-This repository contains Java programs. Follow the instructions below to set up Java and execute the programs.
+About CODESOFT
+
+CODESOFT is a platform that provides hands-on experience through internships in various fields, including Java development. It offers real-world projects to help students and professionals enhance their coding skills and industry knowledge.
+
+About Task - 1 Guess The Number Game 
+
+This project is a Guess the Number game developed in Java as part of the CODESOFT internship program. The game is designed to test players' logical thinking and intuition by challenging them to guess a randomly generated number within a limited number of rounds.
+
+The game begins by generating a random number between 0 and 99. The player chooses the number of rounds (between 1 and 10) to guess the correct number. Each guess is evaluated, and feedback is provided:
+
+- If the guess is correct, the player wins.
+
+- If the guess is too high, the game informs the player.
+
+- If the guess is too low, the game gives a hint.
+
+- If all rounds are used without a correct guess, the player loses
+
+This repository contains Java programs. Follow the instructions below to set up Java and execute the programs.(#Table-of-Contents)
 
 ## Table of Contents
 - [Downloading Java](#downloading-java)
